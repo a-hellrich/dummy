@@ -7,3 +7,5 @@
 1. Ich habe vergessen ein paar Issues zu closen und habe dies nachgeholt.
 1. Ich habe das format von.txt zu .md geändert um *markdown* zu ermöglichen
 1. Ich habe die Texte umformuliert
+1. Ich habe festgestellt, dass so ein log eigentlich dumm ist, weil man ja beim Commit angibt was man tut.
+1. Ich habe beschlossen keine solchen Logs mehr zu führen. Commit messages müssen reichen.
